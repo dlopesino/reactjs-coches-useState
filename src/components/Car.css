@@ -1,0 +1,30 @@
+.velocidad {
+    width: 30%;
+}
+
+.vnormal {
+   
+    background-color: green;
+}
+
+.vmedia {
+    background-color: coral;
+}
+
+.valta {
+    background-color: red;
+}
+
+.parado {
+    background-color: black;
+}
+
+.kms {
+    font-size: 250%;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
